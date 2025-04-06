@@ -1,0 +1,14 @@
+
+langchain_nvidia_ai_endpoints
+python-dotenv
+pyaudio
+websockets
+vosk
+spacy[apple]
+spacy-langdetect
+pygame
+opencv-python
+pymongo
+langchain
+PySimpleGUI
+nvidia_ace-1.0.0-py3-none-any.whl

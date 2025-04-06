@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+#  Usually these files are written by a python script from the `pyinstaller` package
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and text editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# PyCharm
+*.idea/
+
+# Logs
+*.log
+
+# Generated files
+*.bak
+
+# Large model files and directories
+vosk-model*/
+*.whl
+*.pcl
+
+# NVIDIA ACE repository (submodule)
+/ACE/
+
+# Configuration files and API keys that might contain sensitive information
+config.ini
+*_config.yml
+config_*.yml
+.env
+.env*
+**/deploy/docker/.env
